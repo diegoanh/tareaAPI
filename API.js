@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", () => {
     const loadButton = document.getElementById("loadButton");
     const userTableBody = document.querySelector("#userTable tbody");
